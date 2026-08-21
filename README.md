@@ -77,31 +77,6 @@ web                      31 mins             █░░░░░░░░░░�
 Linux                    11 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 25 mins (88.38%)
-
-✍️ 998 lines written by AI, 82 lines written by hand (92.41% AI-written)
-
-🔤 2,413,750 Input Tokens, 382,030 Output Tokens
-
-💵 $65.21 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 124 AI Prompts
-
-Opus                     1,009 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.41% of written lines came from AI
-📚 Verbose Prompter — average 2,592 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.36% of changed lines were hand-edited
-```
-
 
  Last Updated on 21/08/2026 13:51:19 UTC
 <!--END_SECTION:waka-->
