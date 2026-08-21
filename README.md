@@ -33,6 +33,77 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 ## ⏱️ WakaTime — last 7 days
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2045%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+C#                       6 hrs 6 mins        █████████████░░░░░░░░░░░░   51.72 % 
+Markdown                 4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 21 mins       ████████████████████░░░░░   79.34 % 
+Rider                    2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+🐱‍💻 Projects: 
+MyEuropeanJourney        5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.88 % 
+artima-ai                2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+artima-web               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+continero-web-new        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+web                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+
+💻 Operating System: 
+Linux                    11 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 25 mins (88.38%)
+
+✍️ 998 lines written by AI, 82 lines written by hand (92.41% AI-written)
+
+🔤 2,413,750 Input Tokens, 382,030 Output Tokens
+
+💵 $65.21 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 124 AI Prompts
+
+Opus                     1,009 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.41% of written lines came from AI
+📚 Verbose Prompter — average 2,592 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 8.36% of changed lines were hand-edited
+```
+
+
+ Last Updated on 21/08/2026 13:51:19 UTC
 <!--END_SECTION:waka-->
 
 </br>
