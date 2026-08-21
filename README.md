@@ -1,13 +1,13 @@
 # 👋 Hi, I'm @pallerdev
 
-Backend Engineer @ [Continero](https://github.com/Continero) · Studying Web Application Development (DAW) · Spain 🇪🇸
+Backend Engineer @ [Continero](https://github.com/Continero) · Web Application Developer · Spain 🇪🇸
 
 ## 🚀 About me
 
 - 🔭 Working with C#/.NET and Java/Spring Boot on the backend, and helping out with React/TypeScript on the frontend
-- 📚 Studying software development (DAW) in parallel
-- 🌍 Based in Spain, open to remote collaboration
-- ⚡ Currently tinkering with Rust and deployment automation (GitHub Actions)
+- 📚 Studying computer engineering in parallel
+- 🌍 Based in Czech Republic at the moment, open to remote collaboration
+- ⚡ Currently tinkering with Rust, deployment automation (GitHub Actions) and automatization
 
 ## 🛠️ Stack
 
