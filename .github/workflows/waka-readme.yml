@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: anmol098/waka-readme-stats@v5
         with:
@@ -25,3 +26,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+          DEBUG_LOGGING: "True"
