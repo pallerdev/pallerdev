@@ -1,18 +1,18 @@
-# 👋 Hola, soy Pablo (@PAMloboGris39)
+# 👋 Hi, I'm @pallerdev
 
-Backend Engineer @ [Continero](https://github.com/Continero) · Estudiando Desarrollo de Aplicaciones Web (DAW) · España 🇪🇸
+Backend Engineer @ [Continero](https://github.com/Continero) · Studying Web Application Development (DAW) · Spain 🇪🇸
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-- 🔭 Trabajando en C#/.NET en el backend y dando una mano en React/TypeScript en el frontend
-- 📚 Formándome como programador (DAW) en paralelo
-- 🌍 Basado en España, abierto a colaborar remoto
-- ⚡ Últimamente trasteando con Rust y automatización de despliegues (GitHub Actions)
+- 🔭 Working with C#/.NET and Java/Spring Boot on the backend, and helping out with React/TypeScript on the frontend
+- 📚 Studying software development (DAW) in parallel
+- 🌍 Based in Spain, open to remote collaboration
+- ⚡ Currently tinkering with Rust and deployment automation (GitHub Actions)
 
 ## 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,laravel,rust,docker,git,github" alt="Stack icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,ts,js,laravel,rust,docker,git,github" alt="Stack icons" />
 </p>
 
 ## 📊 GitHub Stats
@@ -21,16 +21,16 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Estudiando Desar
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=default&hide_border=true&count_private=true" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=default&hide_border=true&count_private=true" alt="Most used languages" />
   </picture>
 </p>
 
-## ⏱️ WakaTime — últimos 7 días
+## ⏱️ WakaTime — last 7 days
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
