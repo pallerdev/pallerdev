@@ -33,13 +33,15 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%207%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 48 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,30 +55,55 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       6 hrs 6 mins        █████████████░░░░░░░░░░░░   51.72 % 
-Markdown                 4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+C#                       8 hrs 4 mins        █████████████░░░░░░░░░░░░   50.21 % 
+Markdown                 5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 21 mins       ████████████████████░░░░░   79.34 % 
-Rider                    2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              12 hrs 27 mins      ███████████████████░░░░░░   77.57 % 
+Rider                    3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-MyEuropeanJourney        5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.88 % 
-artima-ai                2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-artima-web               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-continero-web-new        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-web                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+artima-ai                5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
+MyEuropeanJourney        5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+artima-web               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+PAMloboGris39            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+continero-web-new        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 💻 Operating System: 
-Linux                    11 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 49 mins (86.04%)
+
+✍️ 1,655 lines written by AI, 165 lines written by hand (90.93% AI-written)
+
+🔤 3,376,322 Input Tokens, 576,684 Output Tokens
+
+💵 $85.54 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 181 AI Prompts
+
+Opus                     1,093 lines         ████████████████░░░░░░░░░   65.57 % 
+Sonnet                   574 lines           █████████░░░░░░░░░░░░░░░░   34.43 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.93% of written lines came from AI
+📚 Verbose Prompter — average 3,403 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 9.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 13:51:19 UTC
+ Last Updated on 22/08/2026 06:31:55 UTC
 <!--END_SECTION:waka-->
 
 </br>
