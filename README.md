@@ -55,55 +55,55 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       8 hrs 4 mins        █████████████░░░░░░░░░░░░   50.21 % 
-Markdown                 5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+C#                       7 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.78 % 
+Markdown                 4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 27 mins      ███████████████████░░░░░░   77.57 % 
-Rider                    3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Claude Code              12 hrs 54 mins      ████████████████████░░░░░   81.50 % 
+Rider                    2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-artima-ai                5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-MyEuropeanJourney        5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
-artima-web               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-PAMloboGris39            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-continero-web-new        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+artima-ai                11 hrs 29 mins      ██████████████████░░░░░░░   72.58 % 
+artima-web               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+PAMloboGris39            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+continero-web-new        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+MyEuropeanJourney        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Linux                    16 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 49 mins (86.04%)
+⏱ AI Coding Time: 14 hrs 21 mins (90.68%)
 
-✍️ 1,655 lines written by AI, 165 lines written by hand (90.93% AI-written)
+✍️ 2,370 lines written by AI, 83 lines written by hand (96.62% AI-written)
 
-🔤 3,376,322 Input Tokens, 576,684 Output Tokens
+🔤 3,591,541 Input Tokens, 689,694 Output Tokens
 
-💵 $85.54 Estimated AI Cost This Week
+💵 $91.00 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 181 AI Prompts
+🧠 22 AI Sessions, 182 AI Prompts
 
-Opus                     1,093 lines         ████████████████░░░░░░░░░   65.57 % 
-Sonnet                   574 lines           █████████░░░░░░░░░░░░░░░░   34.43 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,848 lines         ███████████████████░░░░░░   76.30 % 
+Sonnet                   574 lines           ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.93% of written lines came from AI
-📚 Verbose Prompter — average 3,403 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.5% of changed lines were hand-edited
+🤖 AI-Driven — 96.62% of written lines came from AI
+📚 Verbose Prompter — average 3,397 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 3.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 06:48:14 UTC
+ Last Updated on 25/08/2026 06:38:41 UTC
 <!--END_SECTION:waka-->
 
 </br>
