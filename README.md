@@ -33,15 +33,15 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-200%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2026
+> 🏆 50 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,58 +55,58 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       11 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
-Markdown                 6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-JSON                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+C#                       11 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.94 % 
+Markdown                 5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 36 mins      ██████████████████░░░░░░░   72.08 % 
-Rider                    4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Codex Vscode             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Codex CLI                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Claude Code              15 hrs 37 mins      █████████████████░░░░░░░░   66.17 % 
+Rider                    5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Codex Vscode             1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Codex CLI                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-artima-ai                15 hrs 23 mins      ████████████████░░░░░░░░░   63.03 % 
-MyEuropeanJourney        4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-PAMloboGris39            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-ChameleonTheater_Web     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-ChameleonTheater         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+artima-ai                13 hrs 25 mins      ██████████████░░░░░░░░░░░   56.83 % 
+MyEuropeanJourney        4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+ChameleonTheater_Web     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+PAMloboGris39            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+ChameleonTheater         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Linux                    24 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 40 mins (92.85%)
+⏱ AI Coding Time: 21 hrs 51 mins (92.6%)
 
-✍️ 4,321 lines written by AI, 83 lines written by hand (98.12% AI-written)
+✍️ 7,084 lines written by AI, 83 lines written by hand (98.84% AI-written)
 
-🔤 15,418,590 Input Tokens, 1,452,305 Output Tokens
+🔤 16,610,885 Input Tokens, 1,628,103 Output Tokens
 
-💵 $194.78 Estimated AI Cost This Week
+💵 $197.10 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 329 AI Prompts
+🧠 62 AI Sessions, 334 AI Prompts
 
-Sonnet                   2,073 lines         ████████████░░░░░░░░░░░░░   47.35 % 
-Opus                     1,817 lines         ██████████░░░░░░░░░░░░░░░   41.50 % 
-GPT                      488 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+GPT                      3,165 lines         ███████████░░░░░░░░░░░░░░   44.22 % 
+Sonnet                   2,481 lines         █████████░░░░░░░░░░░░░░░░   34.66 % 
+Opus                     1,512 lines         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
-📚 Verbose Prompter — average 3,180 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.86% of changed lines were hand-edited
+🤖 AI-Driven — 98.84% of written lines came from AI
+📚 Verbose Prompter — average 3,449 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 17:15:37 UTC
+ Last Updated on 28/08/2026 18:08:01 UTC
 <!--END_SECTION:waka-->
 
 </br>
