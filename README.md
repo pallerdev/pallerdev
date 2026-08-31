@@ -37,18 +37,6 @@ Backend Engineer @ [Continero](https://github.com/Continero) · Web Application 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%203%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,33 +66,6 @@ ChameleonTheater         1 hr 10 mins        █░░░░░░░░░░�
 💻 Operating System: 
 Linux                    24 hrs 16 mins      █████████████████████████   100.00 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 23 hrs 3 mins (94.94%)
-
-✍️ 9,190 lines written by AI, 45 lines written by hand (99.51% AI-written)
-
-🔤 18,722,110 Input Tokens, 1,936,716 Output Tokens
-
-💵 $262.30 Estimated AI Cost This Week
-
-🧠 84 AI Sessions, 370 AI Prompts
-
-GPT                      4,956 lines         █████████████░░░░░░░░░░░░   53.23 % 
-Opus                     2,345 lines         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Sonnet                   2,010 lines         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📚 Verbose Prompter — average 3,507 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
-```
-
 
  Last Updated on 30/08/2026 11:07:38 UTC
 <!--END_SECTION:waka-->
