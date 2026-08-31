@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @pallerdev
 
-Backend Engineer @ [Continero](https://github.com/Continero) · Web Application Developer · Spain 🇪🇸
+Backend Engineer at @ [Continero](https://github.com/Continero) · Web Application Developer · Spain 🇪🇸 && Czech Republic 🇨🇿
 
 ## 🚀 About me
 
