@@ -33,9 +33,9 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-219%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,32 +43,32 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.13 % 
-C#                       6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Dart                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Markdown                 7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.79 % 
+C#                       4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Astro                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 34 mins      ████████████████░░░░░░░░░   63.92 % 
-Rider                    4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Codex Vscode             2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Android Studio           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Claude Code              11 hrs 55 mins      █████████████████░░░░░░░░   69.18 % 
+Rider                    2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Codex Vscode             2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🐱‍💻 Projects: 
-artima-ai                6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-MyEuropeanJourney        5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-ChameleonTheater_Web     3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-pam                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-MyEuropeanJourney-Mobile 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+ChameleonTheater_Web     6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
+artima-ai                5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+MyEuropeanJourney        2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+pam                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+ChameleonTheater         53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 💻 Operating System: 
-Linux                    19 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/09/2026 11:00:05 UTC
+ Last Updated on 02/09/2026 10:29:54 UTC
 <!--END_SECTION:waka-->
 
 </br>
