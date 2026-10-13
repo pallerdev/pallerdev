@@ -43,29 +43,27 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   35.94 % 
-Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+C#                       40 mins             ██████████░░░░░░░░░░░░░░░   38.84 % 
+Markdown                 29 mins             ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 16 mins       ████████████████████████░   96.27 % 
-Rider                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Claude Code              1 hr 41 mins        ████████████████████████░   96.32 % 
+Rider                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-artima-ai                3 hrs 41 mins       █████████████████████░░░░   83.16 % 
-pam                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-AyDcP                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-diagramas                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-AiHub                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+artima-ai                1 hr 18 mins        ███████████████████░░░░░░   74.97 % 
+pam                      19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+AyDcP                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 💻 Operating System: 
-Linux                    4 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/10/2026 14:16:14 UTC
+ Last Updated on 13/10/2026 13:25:56 UTC
 <!--END_SECTION:waka-->
 
 </br>
