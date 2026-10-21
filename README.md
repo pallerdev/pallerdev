@@ -43,30 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       ███████████████░░░░░░░░░░   58.51 % 
-C#                       1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Hurl                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+C#                       4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Hurl                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 56 mins       ████████████████████████░   94.91 % 
-Rider                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Claude Code              11 hrs 48 mins      ████████████████████████░   97.96 % 
+Rider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🐱‍💻 Projects: 
-artima-ai                4 hrs 50 mins       ███████████████████░░░░░░   77.21 % 
-pam                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-projects                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Continero                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Work                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+artima-ai                10 hrs 7 mins       █████████████████████░░░░   84.04 % 
+artima-web               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+pam                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Asignaturas              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+UOC                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2026 10:51:26 UTC
+ Last Updated on 21/10/2026 11:03:23 UTC
 <!--END_SECTION:waka-->
 
 </br>
