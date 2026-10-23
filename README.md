@@ -43,28 +43,27 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-C#                       3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
-TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 2 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.36 % 
+C#                       1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
+TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 31 mins       █████████████████████████   99.98 % 
+Claude Code              5 hrs 44 mins       █████████████████████████   99.98 % 
 Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-artima-ai                6 hrs 45 mins       ████████████████████░░░░░   79.28 % 
-artima-web               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-pam                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Work                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+artima-ai                4 hrs 46 mins       █████████████████████░░░░   83.39 % 
+artima-web               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+pam                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    8 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/10/2026 11:02:56 UTC
+ Last Updated on 23/10/2026 10:56:03 UTC
 <!--END_SECTION:waka-->
 
 </br>
