@@ -43,27 +43,26 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.36 % 
-C#                       1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
-TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+C#                       1 hr 59 mins        ██████████████░░░░░░░░░░░   56.20 % 
+Markdown                 1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 44 mins       █████████████████████████   99.98 % 
-Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              3 hrs 32 mins       █████████████████████████   99.96 % 
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-artima-ai                4 hrs 46 mins       █████████████████████░░░░   83.39 % 
-artima-web               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-pam                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+artima-ai                3 hrs 32 mins       █████████████████████████   99.89 % 
+pam                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/10/2026 10:56:03 UTC
+ Last Updated on 24/10/2026 10:11:20 UTC
 <!--END_SECTION:waka-->
 
 </br>
