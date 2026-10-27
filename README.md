@@ -43,26 +43,26 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C#                       1 hr 59 mins        ██████████████░░░░░░░░░░░   56.20 % 
-Markdown                 1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C#                       1 hr 40 mins        ███████████████░░░░░░░░░░   61.63 % 
+Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 32 mins       █████████████████████████   99.96 % 
-Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              2 hrs 42 mins       █████████████████████████   99.95 % 
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-artima-ai                3 hrs 32 mins       █████████████████████████   99.89 % 
-pam                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+artima-ai                2 hrs 42 mins       █████████████████████████   99.86 % 
+pam                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/10/2026 12:09:24 UTC
+ Last Updated on 27/10/2026 11:30:56 UTC
 <!--END_SECTION:waka-->
 
 </br>
