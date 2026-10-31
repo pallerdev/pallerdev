@@ -33,9 +33,9 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,29 +43,29 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 4 hrs 55 mins       █████████████░░░░░░░░░░░░   51.65 % 
-C#                       2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Markdown                 4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+C#                       3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 51 mins       ███████████████████████░░   92.92 % 
-Rider                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Claude Code              8 hrs 55 mins       ███████████████████████░░   91.02 % 
+Rider                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🐱‍💻 Projects: 
-artima-ai                7 hrs 28 mins       ████████████████████░░░░░   78.51 % 
-trading212-readonly-mcp  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-artima-web               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-pam                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-camaleon-teatro          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+artima-ai                7 hrs 51 mins       ████████████████████░░░░░   80.16 % 
+trading212-readonly-mcp  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+artima-web               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+pam                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+UOC                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2026 12:01:54 UTC
+ Last Updated on 31/10/2026 11:36:48 UTC
 <!--END_SECTION:waka-->
 
 </br>
