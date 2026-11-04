@@ -5,6 +5,7 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## 🚀 About me
 
 - 🔭 Working with C#/.NET and Java/Spring Boot on the backend, and helping out with React/TypeScript on the frontend
+- 🤖 Building with AI coding agents day to day (Claude Code, Codex)
 - 📚 Studying computer engineering in parallel
 - 🌍 Based in Czech Republic at the moment, open to remote collaboration
 - ⚡ Currently tinkering with Rust, deployment automation (GitHub Actions) and automatization
