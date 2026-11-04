@@ -16,21 +16,6 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,ts,js,laravel,rust,docker,git,github" alt="Stack icons" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pallerdev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallerdev&layout=compact&theme=default&hide_border=true&count_private=true" alt="Most used languages" />
-  </picture>
-</p>
-
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
