@@ -34,39 +34,21 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%2015%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2023%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
 ```text
-🕑︎ Time Zone: Europe/Paris
+💬 Languages
+Java          ███████░░░░░░░░░░░░░░░░░░  26.37 %
+C#            ██████░░░░░░░░░░░░░░░░░░░  24.71 %
+Markdown      ███░░░░░░░░░░░░░░░░░░░░░░  12.61 %
+JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   7.62 %
+HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.51 %
+JSON          █░░░░░░░░░░░░░░░░░░░░░░░░   3.59 %
 
-💬 Programming Languages: 
-Markdown                 4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
-C#                       3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 55 mins       ███████████████████████░░   91.02 % 
-Rider                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-
-🐱‍💻 Projects: 
-artima-ai                7 hrs 51 mins       ████████████████████░░░░░   80.16 % 
-trading212-readonly-mcp  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-artima-web               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-pam                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-UOC                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+🤖 How I code
+Coding        ██████████████░░░░░░░░░░░  56.74 %
+AI Coding     ███████████░░░░░░░░░░░░░░  42.60 %
 ```
 
-
- Last Updated on 01/11/2026 12:34:42 UTC
+<sub>Updated daily from WakaTime · last run 04/11/2026 11:42 UTC</sub>
 <!--END_SECTION:waka-->
 
 </br>
