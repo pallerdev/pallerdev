@@ -21,19 +21,19 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 <!--START_SECTION:waka-->
 ```text
 💬 Languages
-Java          ███████░░░░░░░░░░░░░░░░░░  26.37 %
+Java          ███████░░░░░░░░░░░░░░░░░░  26.32 %
 C#            ██████░░░░░░░░░░░░░░░░░░░  24.71 %
-Markdown      ███░░░░░░░░░░░░░░░░░░░░░░  12.61 %
-JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   7.62 %
-HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.51 %
+Markdown      ███░░░░░░░░░░░░░░░░░░░░░░  12.62 %
+JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   7.60 %
+HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.50 %
 JSON          █░░░░░░░░░░░░░░░░░░░░░░░░   3.59 %
 
 🤖 How I code
-Coding        ██████████████░░░░░░░░░░░  56.74 %
-AI Coding     ███████████░░░░░░░░░░░░░░  42.60 %
+Coding        ██████████████░░░░░░░░░░░  56.63 %
+AI Coding     ███████████░░░░░░░░░░░░░░  42.71 %
 ```
 
-<sub>Updated daily from WakaTime · last run 05/11/2026 13:54 UTC</sub>
+<sub>Updated daily from WakaTime · last run 06/11/2026 13:39 UTC</sub>
 <!--END_SECTION:waka-->
 
 </br>
