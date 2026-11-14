@@ -29,11 +29,11 @@ HTML          █░░░░░░░░░░░░░░░░░░░░░
 JSON          █░░░░░░░░░░░░░░░░░░░░░░░░   3.59 %
 
 🤖 How I code
-Coding        ██████████████░░░░░░░░░░░  56.17 %
-AI Coding     ███████████░░░░░░░░░░░░░░  43.18 %
+Coding        ██████████████░░░░░░░░░░░  55.58 %
+AI Coding     ███████████░░░░░░░░░░░░░░  43.77 %
 ```
 
-<sub>Updated daily from WakaTime · last run 13/11/2026 13:49 UTC</sub>
+<sub>Updated daily from WakaTime · last run 14/11/2026 12:53 UTC</sub>
 <!--END_SECTION:waka-->
 
 </br>
