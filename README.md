@@ -21,19 +21,19 @@ Backend Engineer at @ [Continero](https://github.com/Continero) · Web Applicati
 <!--START_SECTION:waka-->
 ```text
 💬 Languages
-Java          ███████░░░░░░░░░░░░░░░░░░  26.32 %
-C#            ██████░░░░░░░░░░░░░░░░░░░  24.71 %
-Markdown      ███░░░░░░░░░░░░░░░░░░░░░░  12.62 %
-JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   7.60 %
-HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.50 %
-JSON          █░░░░░░░░░░░░░░░░░░░░░░░░   3.59 %
+Java          ██████░░░░░░░░░░░░░░░░░░░  25.69 %
+C#            ██████░░░░░░░░░░░░░░░░░░░  24.65 %
+Markdown      ███░░░░░░░░░░░░░░░░░░░░░░  13.46 %
+JavaScript    ██░░░░░░░░░░░░░░░░░░░░░░░   7.44 %
+HTML          █░░░░░░░░░░░░░░░░░░░░░░░░   4.39 %
+JSON          █░░░░░░░░░░░░░░░░░░░░░░░░   3.67 %
 
 🤖 How I code
-Coding        ██████████████░░░░░░░░░░░  55.58 %
-AI Coding     ███████████░░░░░░░░░░░░░░  43.77 %
+Coding        ██████████████░░░░░░░░░░░  55.31 %
+AI Coding     ███████████░░░░░░░░░░░░░░  44.05 %
 ```
 
-<sub>Updated daily from WakaTime · last run 17/11/2026 15:25 UTC</sub>
+<sub>Updated daily from WakaTime · last run 18/11/2026 14:59 UTC</sub>
 <!--END_SECTION:waka-->
 
 </br>
